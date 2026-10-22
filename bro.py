@@ -1,3 +1,5 @@
+"""Игра «Изгиб Питона» — классическая змейка на Pygame."""
+
 import pygame
 from random import choice
 
